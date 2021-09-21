@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: 7264b39d928ce9f4496024f4abccd855
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1516667813386448720
+    second: orange_zoom_0
+  - first:
+      213: 7555229730024995132
+    second: orange_zoom_1
+  - first:
+      213: -3228936930798390761
+    second: orange_zoom_2
+  - first:
+      213: -6756719920053381745
+    second: orange_zoom_3
+  - first:
+      213: -2111149205399721675
+    second: orange_zoom_4
+  - first:
+      213: -6492246292047183919
+    second: orange_zoom_5
+  - first:
+      213: -4677433386222502250
+    second: orange_zoom_6
+  - first:
+      213: -6916799602506779297
+    second: orange_zoom_7
+  - first:
+      213: 6720570158538239361
+    second: orange_zoom_8
+  - first:
+      213: -197293587987145248
+    second: orange_zoom_9
+  - first:
+      213: -975050995966452300
+    second: orange_zoom_10
+  - first:
+      213: 1896943032390222497
+    second: orange_zoom_11
+  - first:
+      213: -6677915544449196371
+    second: orange_zoom_12
+  - first:
+      213: -3551663919464988215
+    second: orange_zoom_13
+  - first:
+      213: -1447297421261247192
+    second: orange_zoom_14
+  - first:
+      213: 592280349659991360
+    second: orange_zoom_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orange_zoom_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2406
+        width: 504
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4df9e4cf3c7a245bd93157f25facd5
+      internalID: 1516667813386448720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_1
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2400
+        width: 502
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7b9f9cc5c0b44f9abb02ccf264104
+      internalID: 7555229730024995132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_2
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2406
+        width: 502
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2278f5b0311b40a430ebbf2cc4631
+      internalID: -3228936930798390761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_3
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2408
+        width: 504
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d000221bf590a64cafc34752511658a
+      internalID: -6756719920053381745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1786
+        width: 503
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94cae20b64404f4199ba9dd368b69b7
+      internalID: -2111149205399721675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_5
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1786
+        width: 502
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34643c2a41e4cf49b517dac2a370360
+      internalID: -6492246292047183919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1785
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91926fef2917da34d805c6ffad9a1faa
+      internalID: -4677433386222502250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_7
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1788
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bd65d757de3c74bbf00470e0d65dcd
+      internalID: -6916799602506779297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1161
+        width: 504
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c37d4b78a2864585d98a666095d57
+      internalID: 6720570158538239361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1139
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b030a47824818e479ba0e7995c54015
+      internalID: -197293587987145248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1142
+        width: 504
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5cbe7c7051294d8538a5163d8ca44
+      internalID: -975050995966452300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_11
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 1139
+        width: 502
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da775ef169b884240ad760d2a2cfb9dd
+      internalID: 1896943032390222497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 480
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0781bc32d48e9647b16f05083b19379
+      internalID: -6677915544449196371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 461
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a6eb9bfabcd9e4f98b52743939c3a8
+      internalID: -3551663919464988215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 475
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801825ee60e3e8b4da4f5e91d5b2dc92
+      internalID: -1447297421261247192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_zoom_15
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 455
+        width: 540
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aef617973f059948911751e526034e8
+      internalID: 592280349659991360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fe74314a67b5dd94aa0eee46d56e989d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      orange_zoom_12: -6677915544449196371
+      orange_zoom_3: -6756719920053381745
+      orange_zoom_0: 1516667813386448720
+      orange_zoom_2: -3228936930798390761
+      orange_zoom_10: -975050995966452300
+      orange_zoom_9: -197293587987145248
+      orange_zoom_1: 7555229730024995132
+      orange_zoom_8: 6720570158538239361
+      orange_zoom_4: -2111149205399721675
+      orange_zoom_5: -6492246292047183919
+      orange_zoom_15: 592280349659991360
+      orange_zoom_13: -3551663919464988215
+      orange_zoom_14: -1447297421261247192
+      orange_zoom_7: -6916799602506779297
+      orange_zoom_11: 1896943032390222497
+      orange_zoom_6: -4677433386222502250
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

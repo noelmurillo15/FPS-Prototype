@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8acc1c22d61f8df4db38dbb1ab4bc146, type: 3}
+  m_Name: Empty Spell
+  m_EditorClassIdentifier: 
+  manaCost: 0
+  audio: {fileID: 0}
+  animation: {fileID: 0}
+  particlePrefab: {fileID: 0}
+  skillIcon: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  buff: 0
+  statChangeAmt: 0

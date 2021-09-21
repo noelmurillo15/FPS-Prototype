@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33dd2460550f7354f9e333eea4b9777c, type: 3}
+  m_Name: ElectroRift Shot
+  m_EditorClassIdentifier: 
+  manaCost: 2
+  audio: {fileID: 0}
+  animation: {fileID: 7400000, guid: 34d3013e715c46f4facae317d736d571, type: 2}
+  particlePrefab: {fileID: 2482879476931882466, guid: 83d54fd3304ff2043a41d87e8c78478b,
+    type: 3}
+  skillIcon: {fileID: 21300000, guid: 4a39cb4b272639541b7bd5ac0649acf7, type: 3}
+  damage: 10

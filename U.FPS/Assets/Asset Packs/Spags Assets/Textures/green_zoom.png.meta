@@ -1,0 +1,510 @@
+fileFormatVersion: 2
+guid: dc1b7b0d21c517c4d947ff617fd2d79d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7178518614182721187
+    second: green_zoom_0
+  - first:
+      213: 9074017563570951937
+    second: green_zoom_1
+  - first:
+      213: 7240864578569271697
+    second: green_zoom_2
+  - first:
+      213: 349383757179287184
+    second: green_zoom_3
+  - first:
+      213: 866894342383433643
+    second: green_zoom_4
+  - first:
+      213: 6717929346331492818
+    second: green_zoom_5
+  - first:
+      213: 8998632065414119756
+    second: green_zoom_6
+  - first:
+      213: 9211777050929495272
+    second: green_zoom_7
+  - first:
+      213: -5478096796534198201
+    second: green_zoom_8
+  - first:
+      213: 8941749591973096679
+    second: green_zoom_9
+  - first:
+      213: 5616947310040545539
+    second: green_zoom_10
+  - first:
+      213: -3752994502144906609
+    second: green_zoom_11
+  - first:
+      213: -2834541873854662169
+    second: green_zoom_12
+  - first:
+      213: -2754286616909799772
+    second: green_zoom_13
+  - first:
+      213: 3373919646609813782
+    second: green_zoom_14
+  - first:
+      213: -3174706587997006416
+    second: green_zoom_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: green_zoom_0
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2406
+        width: 504
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7d5289319c055428f8d3ae2f536e58
+      internalID: 7178518614182721187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_1
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2400
+        width: 502
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b18714a42933441a2628c95b41d8f6
+      internalID: 9074017563570951937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_2
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2406
+        width: 502
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a6cf9a0ed9c2f489bcf42026189fd8
+      internalID: 7240864578569271697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_3
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2408
+        width: 504
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1aae1384316f4784872aded1dd3c8
+      internalID: 349383757179287184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1786
+        width: 503
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa76668e7707942b27667413b07858
+      internalID: 866894342383433643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_5
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1786
+        width: 502
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425c38c042ba3fb4aacfa3aaf92d8938
+      internalID: 6717929346331492818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1785
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eee94c4df24664f83085decb140141
+      internalID: 8998632065414119756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_7
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 1788
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91909535ffc6eb249bfb04889dd3605f
+      internalID: 9211777050929495272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1161
+        width: 504
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65f0e8792e9f9841befb1bec1824063
+      internalID: -5478096796534198201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_9
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1139
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b84aada2013cf48b6dd6bfaeb4a5b5
+      internalID: 8941749591973096679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1142
+        width: 504
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922eb307fc1b1a94a8641c3852de4132
+      internalID: 5616947310040545539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_11
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 1139
+        width: 502
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb55e386a5cbe4693a613a0b46d51f
+      internalID: -3752994502144906609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_12
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 480
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd75850f69f953b4ca7d209f99fa8071
+      internalID: -2834541873854662169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 461
+        width: 540
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39252401edb1eb4f883698a13f48f31
+      internalID: -2754286616909799772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 475
+        width: 504
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39652e589bc185438e9bf694282ed28
+      internalID: 3373919646609813782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: green_zoom_15
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 455
+        width: 540
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d73a0f2135483540b302ac7b3374188
+      internalID: -3174706587997006416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b3e32fff6c90beb4c9ba5d2d90c94f44
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      green_zoom_12: -2834541873854662169
+      green_zoom_3: 349383757179287184
+      green_zoom_4: 866894342383433643
+      green_zoom_1: 9074017563570951937
+      green_zoom_5: 6717929346331492818
+      green_zoom_2: 7240864578569271697
+      green_zoom_10: 5616947310040545539
+      green_zoom_8: -5478096796534198201
+      green_zoom_0: 7178518614182721187
+      green_zoom_7: 9211777050929495272
+      green_zoom_14: 3373919646609813782
+      green_zoom_6: 8998632065414119756
+      green_zoom_13: -2754286616909799772
+      green_zoom_11: -3752994502144906609
+      green_zoom_9: 8941749591973096679
+      green_zoom_15: -3174706587997006416
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
